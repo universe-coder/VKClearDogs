@@ -46,7 +46,7 @@
 
 ## Возможные проблемы
 
-Проблема: **ImportError: cannot import name 'Iterable' from 'collections'**
+Проблема: **ImportError: cannot import name 'Iterable' from 'collections'**  
 Решение: [https://ru.stackoverflow.com/questions/1389580/importerror-cannot-import-name-iterable-from-collections](https://ru.stackoverflow.com/questions/1389580/importerror-cannot-import-name-iterable-from-collections)
 
 ## Поддержать автора
