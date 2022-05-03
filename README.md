@@ -23,7 +23,7 @@
 
 ## Конфиг (config.json)
 
-```JSON
+```JS
 {
   "access_token": "", // Токен доступа к VK API
   "profile": {
