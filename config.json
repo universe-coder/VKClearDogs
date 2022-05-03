@@ -1,0 +1,18 @@
+{
+  "access_token": "",
+  "profile": {
+    "id": 137510740,
+    "limit": 100,
+    "sleep": 3.1
+  },
+  "chat": {
+    "id": 294,
+    "limit": 100,
+    "sleep": 3.1
+  },
+  "group": {
+    "id": 176413818,
+    "limit": 100,
+    "sleep": 3.1
+  }
+}
