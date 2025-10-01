@@ -4,8 +4,7 @@ with open("config.json", 'r') as f:
   config = json.load(f)
 
 group_id = config['group']['id']
-session = vk.Session(access_token=config['access_token'])
-vk_api = vk.API(session, v="5.92", lang="ru")
+vk_api = vk.API(access_token=config['access_token'], v="5.92", lang="ru")
 
 banned = 0
 limit = config['group']['limit']
